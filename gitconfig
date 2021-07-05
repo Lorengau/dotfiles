@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = findmemart@gmail.com
+	name = Martin Krause
